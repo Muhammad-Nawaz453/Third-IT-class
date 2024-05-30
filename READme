@@ -1,0 +1,3 @@
+Create a new project
+tsc config.json file:  `tsc --init`
+for watch mode `tsc -w`
